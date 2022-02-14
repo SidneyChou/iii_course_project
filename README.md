@@ -4,6 +4,12 @@
 - 地點範圍：雙北
 - 成果網站：https://leaflet-cafe-map.herokuapp.com/cafemap.html
 
+## Git展示內容
+- 報告投影片：資策會專題報告_cafe選址樂.pdf
+- 我所負責的程式：
+  * 資料蒐集：
+  * 資料清理：
+- data：程式所需資料
 ## 專案流程
 1. 蒐集
 2. 
